@@ -29,7 +29,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="public/images/Sandhata.jpg"
+              src="images/Sandhata.jpg"
               alt="Sandhata Logo"
               width={250}
               height={80}
